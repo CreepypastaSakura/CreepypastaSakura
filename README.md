@@ -10,5 +10,6 @@
 </p>
 
 <p align="center">
-<img width="500" height="375" alt="____۪__ﾟ______𝗉͟𝗈͟𝗌͟𝗍__ׄ___𓈒_〇__-removebg-preview-removebg-preview-2" src="https://github.com/user-attachments/assets/ad152b65-ade5-4601-ab5c-f3edf80140a7" />
+<img width="500" height="375" alt="____۪__ﾟ______𝗉͟𝗈͟𝗌͟𝗍__ׄ___𓈒_〇__-removebg-preview_2-removebg-preview" src="https://github.com/user-attachments/assets/6ed4c792-84c7-4424-ae1e-97abe9047d6d" />
+
 
