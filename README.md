@@ -4,3 +4,4 @@
   𝐿𝑒𝑛𝑖, 𝐴𝑞𝑢𝑎𝑟𝑖𝑢𝑠, 𝟸𝟶𝟶𝟽
 </p>
 
+<img width="500" height="375" alt="____۪__ﾟ______𝗉͟𝗈͟𝗌͟𝗍__ׄ___𓈒_〇__-removebg-preview" src="https://github.com/user-attachments/assets/35393b77-544e-4537-ba15-7336a602b63b" />
