@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<font color="#E8A1C4">୨୧ 𝒷𝑒𝒻𝑜𝓇𝑒 𝓎𝑜𝓊 𝒾𝓃𝓉𝑒𝓇𝒶𝒸𝓉 ୨୧</font>
+<font color="#F6F1F3">୨୧ 𝒷𝑒𝒻𝑜𝓇𝑒 𝓎𝑜𝓊 𝒾𝓃𝓉𝑒𝓇𝒶𝒸𝓉 ୨୧</font>
 
 <br>
 
@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<font color="#E8A1C4">୨୧ 𝒹𝑜 𝓃𝑜𝓉 𝒾𝓃𝓉𝑒𝓇𝒶𝒸𝓉 ୨୧</font>
+<font color="#F6F1F3">୨୧ 𝒹𝑜 𝓃𝑜𝓉 𝒾𝓃𝓉𝑒𝓇𝒶𝒸𝓉 ୨୧</font>
 
 <br>
 
@@ -111,7 +111,7 @@
 
 <div align="center">
 
-<font color="#E8A1C4">୨୧ 𝒶 𝓁𝒾𝓉𝓉𝓁𝑒 𝒶𝒷𝑜𝓊𝓉 𝓂𝑒 ୨୧</font>
+<font color="#F6F1F3">୨୧ 𝒶 𝓁𝒾𝓉𝓉𝓁𝑒 𝒶𝒷𝑜𝓊𝓉 𝓂𝑒 ୨୧</font>
 
 <br>
 
