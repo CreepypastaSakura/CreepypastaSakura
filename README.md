@@ -1,6 +1,6 @@
 <div align="center">
   
-![🌸](https://komarev.com/ghpvc/?username=CreepypastaSakura&label=🌸&color=F3B6D2)
+![🌸](https://komarev.com/ghpvc/?username=CreepypastaSakura&label=🌸&color=EBC1C2)
 
 <div align="center">
 <img width="2048" height="682" alt="leni_sakura_color_matched" src="https://github.com/user-attachments/assets/b410fd10-bc34-4975-8787-0e7dec130577" />
