@@ -1,9 +1,6 @@
-
 <div align="center">
+  <img width="2048" height="163" alt="tumblr_8a6dab4203aafa1ee7949de51a9550a8_a04b64e2_2048" src="https://github.com/user-attachments/assets/a7c3bc4e-a82a-4685-b37c-08bd3ae75204" />
 
-<img width="2000" height="667" alt="Header" src="https://github.com/user-attachments/assets/58d1855c-f5ae-4831-8569-e3c2bc3d964d" />
-
-<br>
 
 <table align="center" width="2000" cellpadding="0" cellspacing="0">
 <tr>
@@ -154,8 +151,8 @@ ask for my pronouns ♡
 </tr>
 </table>
 
-<br>
+<div align="center">
+<img width="2048" height="163" alt="tumblr_38ac6fc85a1f9a1dd9433d104e8c8dde_ae30fa6f_2048" src="https://github.com/user-attachments/assets/1ed3d94c-550d-41b1-8c19-e2b63c309199" />
 
-<img width="2000" height="667" alt="Footer" src="https://github.com/user-attachments/assets/8f940fda-3129-46be-ad59-81095ce7c106" />
 
-</div>
+
