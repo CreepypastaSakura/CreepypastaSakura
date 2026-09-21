@@ -1,7 +1,11 @@
 <div align="center">
   
 ![🌸](https://komarev.com/ghpvc/?username=CreepypastaSakura&label=🌸&color=EBC1C2)
+<div align="center">
+<img width="2048" height="194" alt="tumblr_91310362e1a0c7f11fdcc31cc961f3a9_f1899e12_2048" src="https://github.com/user-attachments/assets/77caa08e-0e97-4683-af04-f1a1c7cdeab7" />
 
+
+  
 <div align="center">
 <img width="2048" height="682" alt="leni_sakura_color_matched" src="https://github.com/user-attachments/assets/b410fd10-bc34-4975-8787-0e7dec130577" />
 
