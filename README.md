@@ -65,15 +65,19 @@
 
 <br>
 
-♡ Please respect my boundaries.
+♡ Racists, Homophobes, Transphobes.
 
 <br>
 
-♡ No unnecessary hate, harassment, or disrespect.
+♡ Disrespectful / Hateful people.
 
 <br>
 
-♡ I prefer genuine, kind, and respectful interactions.
+♡ Harassers / Bullies.
+
+<br>
+
+♡ Constant drama & Provocation.
 
 </div>
 
