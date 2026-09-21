@@ -1,4 +1,9 @@
 <div align="center">
+  
+![🌸](https://komarev.com/ghpvc/?username=CreepypastaSakura&label=🌸&color=F3B6D2)
+
+
+<div align="center">
   <img width="2048" height="163" alt="tumblr_8a6dab4203aafa1ee7949de51a9550a8_a04b64e2_2048" src="https://github.com/user-attachments/assets/a7c3bc4e-a82a-4685-b37c-08bd3ae75204" />
 
 
