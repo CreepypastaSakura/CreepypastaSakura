@@ -65,15 +65,11 @@
 
 <br>
 
-♡ Please respect my boundaries and identity.
+♡ Please respect my boundaries.
 
 <br>
 
 ♡ No unnecessary hate, harassment, or disrespect.
-
-<br>
-
-♡ DNI if you cannot respect my pronouns or identity.
 
 <br>
 
@@ -98,15 +94,15 @@
 
 <br>
 
-Hi… I'm Leni, but you can also call me Sakura! ♡
+Hi, I'm Leni, but you can also call me Sakura! ♡
 
 <br>
 
-♡ 18 years old
+♡ 19 years old
 
 <br>
 
-♡ Artist / Singer / Gamer
+♡ Artist / Singer / Gamer 🌸
 
 <br>
 
@@ -134,12 +130,9 @@ Genshin Impact · Minecraft · Pony Town · Phasmophobia · FNaF
 
 <br>
 
-𝘈𝘳𝘵𝘪𝘴𝘵 / 𝘚𝘪𝘯𝘨𝘦𝘳 / 𝘎𝘢𝘮𝘦𝘳 ⊱ ۫ ׅ
+ ⊱ ۫ ׅ
 
 <br>
-
-ask for my pronouns ♡
-
 </div>
 
 </details>
