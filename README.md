@@ -31,7 +31,23 @@
 
 <br><br>
 
-♡ Your BYI information.
+♡ I'm really introverted, so I might not start conversations right away.
+
+<br><br>
+
+♡ I enjoy meeting new people slowly and getting to know them.
+
+<br><br>
+
+♡ I appreciate patience and kindness. I might seem a little nervous at first, but I'm friendly and enjoy connecting with others.
+
+<br><br>
+
+♡ I like relaxed and genuine conversations, sharing ideas, being creative, or quietly hanging out without pressure.
+
+<br><br>
+
+♡ Please be patient with me and let conversations develop naturally.
 
 </div>
 
@@ -52,7 +68,15 @@
 
 <br><br>
 
-♡ Your DNI information.
+♡ Please respect my boundaries.
+
+<br><br>
+
+♡ No unnecessary hate, harassment, or disrespect.
+
+<br><br>
+
+♡ I prefer genuine, kind, and respectful interactions.
 
 </div>
 
@@ -73,7 +97,47 @@
 
 <br><br>
 
-♡ Your About Me information.
+Hi… I'm Leni, but you can also call me Sakura! ♡
+
+<br><br>
+
+♡ 19 years old
+
+<br>
+
+♡ Artist / Singer / Gamer
+
+<br>
+
+♡ Pansexual & Genderfluid
+
+<br>
+
+♡ Ask for my pronouns!
+
+<br><br>
+
+♡ I love spending time in games like:
+
+<br>
+
+Genshin Impact · Minecraft · Pony Town · Phasmophobia · FNaF
+
+<br><br>
+
+♡ I love being creative, sharing ideas, and getting to know new people.
+
+<br>
+
+♡ Even if I seem nervous at first, I'm friendly and genuinely enjoy connecting with others.
+
+<br><br>
+
+ ⊱ ۫ ׅ
+
+<br>
+
+ask for my pronouns ♡
 
 </div>
 
