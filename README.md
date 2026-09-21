@@ -3,7 +3,8 @@
 ![🌸](https://komarev.com/ghpvc/?username=CreepypastaSakura&label=🌸&color=F3B6D2)
 
 <div align="center">
-<img width="2172" height="724" alt="d6f8ba93-ff64-4b1d-bea5-028d51c60665" src="https://github.com/user-attachments/assets/9c11c314-0aff-404e-b2a1-e4bcef950009" />
+<img width="2048" height="682" alt="leni_sakura_color_matched" src="https://github.com/user-attachments/assets/b410fd10-bc34-4975-8787-0e7dec130577" />
+
 
 
 
