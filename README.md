@@ -1,20 +1,20 @@
 
 <div align="center">
 
-<img width="1500" height="500" alt="Header" src="https://github.com/user-attachments/assets/58d1855c-f5ae-4831-8569-e3c2bc3d964d" />
+<img width="2000" height="667" alt="Header" src="https://github.com/user-attachments/assets/58d1855c-f5ae-4831-8569-e3c2bc3d964d" />
 
 <br>
 
-<table align="center">
+<table align="center" width="2000" cellpadding="0" cellspacing="0">
 <tr>
 
-<td width="45%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
-<img width="300" alt="Character" src="https://github.com/user-attachments/assets/87e07300-8a65-450c-930f-cc50075b4f42" />
+<img width="750" alt="Character" src="https://github.com/user-attachments/assets/87e07300-8a65-450c-930f-cc50075b4f42" />
 
 </td>
 
-<td width="55%" align="center" valign="middle">
+<td width="58%" align="center" valign="middle">
 
 <div align="center">
 
@@ -29,23 +29,23 @@
 
 <font color="#E8A1C4">୨୧ 𝒷𝑒𝒻𝑜𝓇𝑒 𝓎𝑜𝓊 𝒾𝓃𝓉𝑒𝓇𝒶𝒸𝓉 ୨୧</font>
 
-<br><br>
+<br>
 
 ♡ I'm really introverted, so I might not start conversations right away.
 
-<br><br>
+<br>
 
 ♡ I enjoy meeting new people slowly and getting to know them.
 
-<br><br>
+<br>
 
 ♡ I appreciate patience and kindness. I might seem a little nervous at first, but I'm friendly and enjoy connecting with others.
 
-<br><br>
+<br>
 
 ♡ I like relaxed and genuine conversations, sharing ideas, being creative, or quietly hanging out without pressure.
 
-<br><br>
+<br>
 
 ♡ Please be patient with me and let conversations develop naturally.
 
@@ -66,15 +66,19 @@
 
 <font color="#E8A1C4">୨୧ 𝒹𝑜 𝓃𝑜𝓉 𝒾𝓃𝓉𝑒𝓇𝒶𝒸𝓉 ୨୧</font>
 
-<br><br>
+<br>
 
-♡ Please respect my boundaries.
+♡ Please respect my boundaries and identity.
 
-<br><br>
+<br>
 
 ♡ No unnecessary hate, harassment, or disrespect.
 
-<br><br>
+<br>
+
+♡ DNI if you cannot respect my pronouns or identity.
+
+<br>
 
 ♡ I prefer genuine, kind, and respectful interactions.
 
@@ -95,13 +99,13 @@
 
 <font color="#E8A1C4">୨୧ 𝒶 𝓁𝒾𝓉𝓉𝓁𝑒 𝒶𝒷𝑜𝓊𝓉 𝓂𝑒 ୨୧</font>
 
-<br><br>
+<br>
 
 Hi… I'm Leni, but you can also call me Sakura! ♡
 
-<br><br>
+<br>
 
-♡ 19 years old
+♡ 18 years old
 
 <br>
 
@@ -115,7 +119,7 @@ Hi… I'm Leni, but you can also call me Sakura! ♡
 
 ♡ Ask for my pronouns!
 
-<br><br>
+<br>
 
 ♡ I love spending time in games like:
 
@@ -123,7 +127,7 @@ Hi… I'm Leni, but you can also call me Sakura! ♡
 
 Genshin Impact · Minecraft · Pony Town · Phasmophobia · FNaF
 
-<br><br>
+<br>
 
 ♡ I love being creative, sharing ideas, and getting to know new people.
 
@@ -131,9 +135,9 @@ Genshin Impact · Minecraft · Pony Town · Phasmophobia · FNaF
 
 ♡ Even if I seem nervous at first, I'm friendly and genuinely enjoy connecting with others.
 
-<br><br>
+<br>
 
- ⊱ ۫ ׅ
+𝘈𝘳𝘵𝘪𝘴𝘵 / 𝘚𝘪𝘯𝘨𝘦𝘳 / 𝘎𝘢𝘮𝘦𝘳 ⊱ ۫ ׅ
 
 <br>
 
@@ -152,6 +156,6 @@ ask for my pronouns ♡
 
 <br>
 
-<img width="1500" height="500" alt="Footer" src="https://github.com/user-attachments/assets/8f940fda-3129-46be-ad59-81095ce7c106" />
+<img width="2000" height="667" alt="Footer" src="https://github.com/user-attachments/assets/8f940fda-3129-46be-ad59-81095ce7c106" />
 
 </div>
