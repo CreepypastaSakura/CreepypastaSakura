@@ -30,7 +30,7 @@
 
 <details>
 <summary>
-<img src="https://img.shields.io/badge/୨୧_BYI_♡-F3B6D2?style=for-the-badge&labelColor=F3B6D2&color=F3B6D2" alt="BYI" />
+<img src="https://img.shields.io/badge/୨୧_BYI_♡-ebc1c2?style=for-the-badge&labelColor=bc1c2&color=EBC1C2" alt="BYI" />
 </summary>
 
 <br>
@@ -67,7 +67,7 @@
 
 <details>
 <summary>
-<img src="https://img.shields.io/badge/୨୧_DNI_♡-F3B6D2?style=for-the-badge&labelColor=F3B6D2&color=F3B6D2" alt="DNI" />
+<img src="https://img.shields.io/badge/୨୧_DNI_♡-EBC1C2?style=for-the-badge&labelColor=EBC1C2&color=EBC1C2" alt="DNI" />
 </summary>
 
 <br>
@@ -100,7 +100,7 @@
 
 <details>
 <summary>
-<img src="https://img.shields.io/badge/୨୧_ABOUT_ME_♡-F3B6D2?style=for-the-badge&labelColor=F3B6D2&color=F3B6D2" alt="ABOUT ME" />
+<img src="https://img.shields.io/badge/୨୧_ABOUT_ME_♡-EBC1C2?style=for-the-badge&labelColor=EBC1C2&color=EBC1C2" alt="ABOUT ME" />
 </summary>
 
 <br>
