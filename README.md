@@ -168,6 +168,7 @@ Genshin Impact · Minecraft · Pony Town · Phasmophobia · FNaF
 <div align="center">
 <img width="2048" height="163" alt="tumblr_38ac6fc85a1f9a1dd9433d104e8c8dde_ae30fa6f_2048" src="https://github.com/user-attachments/assets/1ed3d94c-550d-41b1-8c19-e2b63c309199" />
   
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dkiq0m6czfjm9516kmuetxhpj&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=EBC1C2&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <div align="center">
 <img width="100" height="100" alt="tumblr_1ecd6dce962d45f84f99194c6e7acc08_7ea6dc52_1280" src="https://github.com/user-attachments/assets/9150263b-adb4-41f0-a8ed-82d12aa919a8" />
