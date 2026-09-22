@@ -123,7 +123,7 @@ Hi, I'm Leni, but you can also call me Sakura! ♡
 
 <br>
 
-♡ Artist / Singer / Gamer 🌸
+♡ Artist / Singer / Gamer 
 
 <br>
 
